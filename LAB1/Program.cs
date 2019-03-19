@@ -12,7 +12,7 @@ namespace LAB1
         {
             double temp;
             temp = fstNum / sndNum;
-            Console.WriteLine("({0} / {1})^2 = " + Math.Pow(temp, 2),fstNum,sndNum);
+            Console.WriteLine("({0} - {1})^2 = " + Math.Pow(temp, 2),fstNum,sndNum);
 
         }
         static void Main(string[] args)
